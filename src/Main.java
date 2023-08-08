@@ -16,7 +16,6 @@ public class Main {
     }
 
     public static void task1() {
-
         System.out.println("Задача 1");
 
         int[] salary = generateRandomArray();
@@ -53,7 +52,6 @@ public class Main {
     }
 
     public static void task3() {
-
         System.out.println("Задача 3");
 
         int[] salary = generateRandomArray();
@@ -69,7 +67,6 @@ public class Main {
     }
 
     public static void task4() {
-
         System.out.println("Задача 4");
 
         char[] reverseFullName = {'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
